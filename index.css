@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    background-image: url('FOTO/Background1\ \(1\).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.foreground-text {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 80px;
+    color: white;
+    -webkit-text-stroke: 1.5px #00aaff; /* blue stroke */
+    text-decoration: none;
+    text-shadow: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.btn1{
+    font-family: "Times New Roman", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.btn{
+    position: relative;
+    top: 10%;
+    background-color: #00aaff;
+    color: white;
+    font-size: 20px;
+    padding: 40px 80px;
+    border: none;
+    border-radius: 50px; /* bikin oval */
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #0088cc;
+    transform: translateY(-2px);
+}
