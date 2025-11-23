@@ -1,5 +1,5 @@
 
-PWL-PROJEK-STS: Website Billing Warnet
+PWL-PROJEK-SAS: Website Billing Warnet
 
 Website ini adalah sistem billing warnet berbasis web yang memungkinkan manajemen waktu, saldo, transaksi, dan pemantauan PC dalam satu platform. Sistem ini dilengkapi fitur saldo/top up, anti-cheat restart, pencatatan transaksi tambahan, serta dashboard untuk pemilik dan operator. Di website ini, kita dapat menyewa game untuk dimainkan, membeli makanan dan mengecek informasi-informasi tentang saldo anda, timer pengguna, dan riwayat pengguna.
 
