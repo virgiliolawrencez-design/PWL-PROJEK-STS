@@ -1,7 +1,8 @@
 
-# PWL-PROJEK-STS: Website Billing Warnet
+PWL-PROJEK-STS: Website Billing Warnet
 
-Website ini adalah sistem billing warnet berbasis web yang memungkinkan manajemen waktu, saldo, transaksi, dan pemantauan PC dalam satu platform. Sistem ini dilengkapi fitur saldo/top up, anti-cheat restart, pencatatan transaksi tambahan, serta dashboard untuk pemilik dan operator.
+Website ini adalah sistem billing warnet berbasis web yang memungkinkan manajemen waktu, saldo, transaksi, dan pemantauan PC dalam satu platform. Sistem ini dilengkapi fitur saldo/top up, anti-cheat restart, pencatatan transaksi tambahan, serta dashboard untuk pemilik dan operator. Di website ini, kita dapat menyewa game untuk dimainkan, membeli makanan dan mengecek informasi-informasi tentang saldo anda, timer pengguna, dan riwayat pengguna.
+
 
 Fitur Utama
 - Login & Registrasi Member
@@ -26,6 +27,7 @@ Teknologi yang Digunakan
 - HTML, CSS, JavaScript (Frontend)
 - AJAX untuk komunikasi asinkron
 
+
 Struktur Folder
 - main/ : Halaman utama member (home, billing, food, dsb)
 - Dahsboard/ : Halaman admin/operator
@@ -46,6 +48,7 @@ Cara Instalasi & Menjalankan Proyek
 2. Import database dari file SQL ke MySQL (lihat langkah Setup Database di atas).
 3. Jalankan server lokal (misal: Laragon/XAMPP) dan akses melalui browser ke localhost/PWL-PROJEK-STS/main/member.php.
 
+
 Cara Menggunakan
 1. Login/buat akun di halaman member
 2. Isi saldo jika diperlukan
@@ -54,4 +57,5 @@ Cara Menggunakan
 5. Jika waktu habis, otomatis logout
 6. Riwayat transaksi akan tersimpan otomatis
 
-Selamat menggunakan, pak dan semoga bermanfaat!
+---
+Selamat menggunakan dan semoga bermanfaat!
