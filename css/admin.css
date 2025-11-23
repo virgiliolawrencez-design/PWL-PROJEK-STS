@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url("FOTO/Background2.png");
+    background-color: #0a0a0a;
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
@@ -15,7 +15,7 @@ body{
 }
 
 .login-container {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(173, 173, 173, 0.8);
     border-radius: 15px;
     padding: 40px 50px;
     width: 350px;
@@ -68,7 +68,7 @@ body{
 }
 
 .login-button {
-    background-color: #ff5c7c;
+    background-color: #00b3ff;
     border: none;
     border-radius: 12px;
     color: white;
@@ -81,11 +81,11 @@ body{
 }
 
 .login-button:hover {
-    background-color: #ff3b5a;
+    background-color: #001aff;
 }
 
 .error-message {
-    color: red;
+    color: rgb(255, 0, 0);
     font-size: 14px;
     margin-top: 10px;
 }
